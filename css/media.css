@@ -20,6 +20,8 @@
     .how_It_Work_sec .btn_play {width: 55px;top: 32%; min-height: 55px;}
     .footer_sec .footer_menu { flex: 1 0 49.33333%; } .footer_sec .footer_menu ul { margin-bottom: 30px; } footer.footer_sec { padding-top: 40px; padding-bottom: 0; } h1, h2 { font-size: 30px; line-height: 38px; } .checkbox.purple { max-width: 75px; min-height: 72px; }
     .Lottery_sec_box .checkbox img { max-width: 35px; } .footer_sec .footer_menu_icon li { margin: 0 13px; padding-bottom: 20px; } .modal .modal_title p { line-height: 25px; padding-bottom: 12px; } .modal .from_name { margin-bottom: 15px; } .modal .close { top: -8px; right: -5px; width: 35px; height: 35px; line-height: 34px; }
+    .banner_left_content .right_content {max-width: 100%;margin: 0 0 0 auto;display: block;text-align: center;}
+    .right_content p {font-size: 16px;line-height: 24px;}
 }
 @media only screen and (max-width: 576px) {
     .logoipsum_header .logoipsum_header_menu ul {top: 80px;}
